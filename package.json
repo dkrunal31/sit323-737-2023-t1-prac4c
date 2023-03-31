@@ -1,0 +1,11 @@
+{
+    "name": "node-server",
+    "description": "Task 4.2C",
+    "dependencies": {
+        "express": "*",
+        "morgan": "^1.10.0",
+        "winston": "^3.8.2"
+    },
+    "author": "Krunal",
+    "license": "MIT"
+}
